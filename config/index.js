@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "焦焦",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "wxb7f8371f6faf720c",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "B-Vagro3B8HSIpPLm3R_5mPGxgGCBqn_plP29J3wkOw",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -97,33 +97,9 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
       name: "老婆3",
-      id: "",
-      useTemplateId: "",
+      id: "wxb7f8371f6faf720c",
+      useTemplateId: "B-Vagro3B8HSIpPLm3R_5mPGxgGCBqn_plP29J3wkOw",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -132,6 +108,8 @@ export const config = {
       festivals: [],
       customizedDateList: []
     },
+    
+    
     // 你可以不断按格式往下增加
     // ...
   ],
