@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o16f15p_O6UPzGRSt2__nnv5xuwI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "B-Vagro3B8HSIpPLm3R_5mPGxgGCBqn_plP29J3wkOw",
+      useTemplateId: "cJamWwGBppmgnkYV6_pfxAdT7P5skHNQoj1IGw-Kuh4",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -99,14 +99,23 @@ export const config = {
     {
       name: "老婆3",
       id: "o16f15mzZiNOrpd9OQF7u-O59BAQ",
-      useTemplateId: "B-Vagro3B8HSIpPLm3R_5mPGxgGCBqn_plP29J3wkOw",
-      province: "",
-      city: "",
+      useTemplateId: "cJamWwGBppmgnkYV6_pfxAdT7P5skHNQoj1IGw-Kuh4",
+      province: "广东",
+      city: "深圳",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [
+        // 在一起的日子
+        {"keyword": "love_day", date: "2022-09-08"},
+        // 一起认识的日子
+        {"keyword": "know_day", date: "2022-07-03"},
+        // 结婚纪念日
+        {"keyword": "marry_day", date: "2022-09-09"},
+        // 退伍日
+        {"keyword": "ex_day", date: "2022-09-10"},
+      ]
     },
     
     
