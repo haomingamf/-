@@ -110,7 +110,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2022-09-08"},
         // 一起认识的日子
-        {"keyword": "know_day", date: "2022-07-03"},
+        {"keyword": "know_day", date: "2022-07-07"},
         // 结婚纪念日
         {"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
