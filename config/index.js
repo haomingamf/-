@@ -74,7 +74,7 @@ export const config = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://baijiahao.baidu.com/s?id=1715493826131157556&wfr=spider&for=pc",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
@@ -104,7 +104,7 @@ export const config = {
       city: "深圳",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://baijiahao.baidu.com/s?id=1715493826131157556&wfr=spider&for=pc",
       festivals: [],
       customizedDateList: [
         // 在一起的日子
